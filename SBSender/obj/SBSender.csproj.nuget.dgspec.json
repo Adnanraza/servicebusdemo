@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBSender\\SBSender.csproj": {}
+    "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBSender\\SBSender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBSender\\SBSender.csproj": {
+    "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBSender\\SBSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBSender\\SBSender.csproj",
+        "projectUniqueName": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBSender\\SBSender.csproj",
         "projectName": "SBSender",
-        "projectPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBSender\\SBSender.csproj",
+        "projectPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBSender\\SBSender.csproj",
         "packagesPath": "C:\\Users\\adnan.raza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBSender\\obj\\",
+        "outputPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBSender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj": {
-                "projectPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj"
+              "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj": {
+                "projectPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj": {
+    "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj",
+        "projectUniqueName": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj",
         "projectName": "SBShared",
-        "projectPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj",
+        "projectPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj",
         "packagesPath": "C:\\Users\\adnan.raza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\obj\\",
+        "outputPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

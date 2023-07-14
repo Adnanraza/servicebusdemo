@@ -10,7 +10,7 @@ namespace SBReceiver
 {
     class Program
     {
-        const string connectionString = "Endpoint=sb://adnanraza.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=8NshqIW6+d1G8vZ7qSbFVvv+BfwnzH7u5+ASbFSX1pQ=";
+        const string connectionString = "";
         const string queueName = "arservicebus";
         static IQueueClient queueClient;
 

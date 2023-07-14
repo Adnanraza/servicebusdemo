@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj",
+      "projectUniqueName": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj",
       "projectName": "SBShared",
-      "projectPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\SBShared.csproj",
+      "projectPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\SBShared.csproj",
       "packagesPath": "C:\\Users\\adnan.raza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adnan.raza\\Downloads\\IntroToAzureServiceBusSourceCode\\SBShared\\obj\\",
+      "outputPath": "D:\\Projects\\THO\\Punch\\Repo\\servicebusdemo\\SBShared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
