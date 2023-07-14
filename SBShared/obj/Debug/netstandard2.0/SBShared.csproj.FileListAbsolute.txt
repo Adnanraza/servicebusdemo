@@ -1,0 +1,9 @@
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\bin\Debug\netstandard2.0\SBShared.deps.json
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\bin\Debug\netstandard2.0\SBShared.dll
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\bin\Debug\netstandard2.0\SBShared.pdb
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\obj\Debug\netstandard2.0\SBShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfoInputs.cache
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\obj\Debug\netstandard2.0\SBShared.AssemblyInfo.cs
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\obj\Debug\netstandard2.0\SBShared.csproj.CoreCompileInputs.cache
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\obj\Debug\netstandard2.0\SBShared.dll
+C:\Users\adnan.raza\Downloads\IntroToAzureServiceBusSourceCode\SBShared\obj\Debug\netstandard2.0\SBShared.pdb
